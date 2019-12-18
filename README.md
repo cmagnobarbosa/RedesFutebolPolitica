@@ -42,7 +42,7 @@ Termos usados para coleta: flamengo, river, lima, libertadores
 
 ## Libertadores 
 
-- Sumário da Rede:
+Sumário da Rede:
   - Name: 
   - Type: DiGraph
 - Number of nodes: 234318
@@ -51,7 +51,7 @@ Termos usados para coleta: flamengo, river, lima, libertadores
 - Average out degree:   1.5987 
 
 ## Politica
-- Sumário da Rede:
+Sumário da Rede:
  - Name: 
  - Type: DiGraph
 - Number of nodes: 234318
