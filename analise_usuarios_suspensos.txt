@@ -1,0 +1,4 @@
+Resultado Analise Usuários suspensos
+Usuários Totais: 234318
+Usuários suspensos: 17764
+Usuários Validos: 216554

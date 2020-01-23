@@ -1,0 +1,21 @@
+Resultado Analise Usuários suspensos
+Usuários Totais: 234318
+Usuários suspensos: 17764
+Usuários Validos: 216554
+
+Rede Antiga
+Name: 
+Type: Graph
+Number of nodes: 234318
+Number of edges: 374466
+Average degree:   3.1962
+Número Componentes 11252
+
+
+Nova Rede
+Name: 
+Type: Graph
+Number of nodes: 216554
+Number of edges: 331623
+Average degree:   3.0627
+Número componentes novo 17553
