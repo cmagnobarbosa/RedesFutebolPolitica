@@ -1,21 +1,31 @@
-Resultado Analise Usuários suspensos
+Resultado Análise Usuários suspensos
 Usuários Totais: 234318
 Usuários suspensos: 17764
 Usuários Validos: 216554
 
 Rede Antiga
 Name: 
-Type: Graph
+Type: DiGraph
 Number of nodes: 234318
-Number of edges: 374466
-Average degree:   3.1962
-Número Componentes 11252
-
+Number of edges: 374599
+Average in degree:   1.5987
+Average out degree:   1.5987
 
 Nova Rede
 Name: 
-Type: Graph
+Type: DiGraph
 Number of nodes: 216554
-Number of edges: 331623
-Average degree:   3.0627
-Número componentes novo 17553
+Number of edges: 331741
+Average in degree:   1.5319
+Average out degree:   1.5319
+
+Eliminando Nós totalmente separados na rede edgelist 
+
+Info rede: retweets_libertadores_nao_suspenso.edgelist
+Name: 
+Type: DiGraph
+Number of nodes: 209215
+Number of edges: 331741
+Average in degree:   1.5856
+Average out degree:   1.5856
+
