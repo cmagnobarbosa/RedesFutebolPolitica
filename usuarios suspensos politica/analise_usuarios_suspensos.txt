@@ -1,0 +1,31 @@
+Usuários Totais: 230233
+Usuários suspensos: 142971
+Usuários Validos: 87262
+
+
+Name: 
+Type: DiGraph
+Number of nodes: 230233
+Number of edges: 451275
+Average in degree:   1.9601
+Average out degree:   1.9601
+
+Após eliminação de nós que foram suspensos
+
+Name: 
+Type: DiGraph
+Number of nodes: 87262
+Number of edges: 87285
+Average in degree:   1.0003
+Average out degree:   1.0003
+
+Rede Apos eliminação de nós isolados
+
+Name: 
+Type: DiGraph
+Number of nodes: 57683
+Number of edges: 87285
+Average in degree:   1.5132
+Average out degree:   1.5132
+
+
