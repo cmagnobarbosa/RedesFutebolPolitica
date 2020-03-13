@@ -1,0 +1,11 @@
+Rede Parcial de interação libertadores
+
+Nó: Perfis do twitter, que interagiram com assunto libertadores ou que são seguidos ou seguem alguem que interagiu com o assunto.
+Arestas: Relação de seguidor(Aresta de saida), seguindo(Aresta de entrada)
+Essa rede é uma amostra parcial dos perfis que interagiram com o assunto libertadores, foram considerados em média 100 seguidores e seguindo para cada 
+perfil.
+
+Os nós estão representados com ids dos usuários.
+Podem ser traduzidos em : https://tweeterid.com/
+
+
