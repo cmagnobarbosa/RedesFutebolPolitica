@@ -1,8 +1,8 @@
 Name: 
 Type: DiGraph
-Number of nodes: 607036
-Number of edges: 1016014
-Average in degree:   1.6737
-Average out degree:   1.6737
-Number of weakly connected components: 2
-Number of strongly connected components: 370691
+Number of nodes: 998772
+Number of edges: 1780862
+Average in degree:   1.7831
+Average out degree:   1.7831
+Number of weakly connected components: 4
+Number of strongly connected components: 606886
